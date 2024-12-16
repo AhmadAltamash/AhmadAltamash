@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJs, MERN**
 
-- 💬 Ask me about **NextJs, ReactJs, Java**
+- 💬 Ask me about **ReactJs, Java**
 
 - 📫 How to reach me **work.altamashahmad@gmail.com**
 
